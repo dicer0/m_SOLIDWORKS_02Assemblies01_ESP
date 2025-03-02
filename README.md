@@ -7,7 +7,7 @@
   </ul>
 </h6>
 And this specific repository contains documentation about the SOLIDWORKS software, which is used for CAD design and mechanical analysis.
-This repository only contains the design and development of assemblies and its parts.
+This repo only contains the design and development of assemblies and its parts.
 &nbsp;
 <br/>
 &nbsp;
