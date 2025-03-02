@@ -1,4 +1,4 @@
-[![MasterHead](http://dicer0.com/wp-content/uploads/2025/03/SOLIDWORKS-Assemblies-di_cer0-Banner.png)](https://dicer0.com/#skills)
+[![MasterHead](http://dicer0.com/wp-content/uploads/2025/03/SOLIDWORKS-Assemblies-dicer0-Banner.png)](https://dicer0.com/#skills)
 # m_SOLIDWORKS_02Assemblies01_ESP
 <h6 align="justify">
   <ul>
