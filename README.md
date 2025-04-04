@@ -12,4 +12,4 @@ This repo only contains the design and development of assemblies and its parts.
 <br/>
 &nbsp;
 
-[![SolidWorksAssemblies](http://dicer0.com/wp-content/uploads/2024/07/m_SOLIDWORS_MkII.gif)](https://dicer0.com/#skills)
+[![SolidWorksAssemblies](http://dicer0.com/wp-content/uploads/2025/04/r_BeVisioneers_Enerdrais_MkII.gif)](https://dicer0.com/#skills)
